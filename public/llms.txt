@@ -1,0 +1,17 @@
+# Maxim — Personal Tech Blog
+
+Maxim is a specialized tech blog focusing on quantitative finance, quantum systems, and artificial intelligence.
+
+## Tech Stack
+- Frontend: Vite + React
+- Styling: Custom Vanilla CSS with Design Tokens
+- Icons/Assets: Unsplash Editorial CDNs
+
+## Core Content Areas
+- Algorithmic Trading (MQL5)
+- Quantum Computing & Physics Paradoxes
+- Cybersecurity Strategy
+- AGI & AI Alignment
+
+## Editorial Philosophy
+Broadsheet newspaper aesthetic, smooth intersection-observer based transitions, and high-contrast walnut-on-parchment typography.
